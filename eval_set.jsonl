@@ -1,0 +1,50 @@
+{"qid": "Q001", "question": "What is the Jagged Frontier?", "gold_paragraph_id": "CL1_C1_P009", "class": "Class 1"}
+{"qid": "Q002", "question": "Why can't AI count the letters in the word strawberry?", "gold_paragraph_id": "CL1_C3_P014", "class": "Class 1"}
+{"qid": "Q003", "question": "What is the difference between machines that sort and machines that make?", "gold_paragraph_id": "CL1_C2_P003", "class": "Class 1"}
+{"qid": "Q004", "question": "What are the three stages of training a foundation model?", "gold_paragraph_id": "CL1_C3_P008", "class": "Class 1"}
+{"qid": "Q005", "question": "Why did Moderna build over 1,400 custom GPTs?", "gold_paragraph_id": "CL1_C4_P005", "class": "Class 1"}
+{"qid": "Q006", "question": "What are the four questions to ask before choosing an AI approach?", "gold_paragraph_id": "CL1_C5_P004", "class": "Class 1"}
+{"qid": "Q007", "question": "What is the two-file mental model of a model?", "gold_paragraph_id": "CL1_C3_P002", "class": "Class 1"}
+{"qid": "Q008", "question": "What did Moderna's DoseID GPT do?", "gold_paragraph_id": "CL1_C4_P007", "class": "Class 1"}
+{"qid": "Q009", "question": "What are the seven layers of the modern AI stack?", "gold_paragraph_id": "CL2_C1_P007", "class": "Class 2"}
+{"qid": "Q010", "question": "What are the five build-vs-buy factors?", "gold_paragraph_id": "CL2_C2_P002", "class": "Class 2"}
+{"qid": "Q011", "question": "What is the difference between fine-tuning and RAG?", "gold_paragraph_id": "CL2_C3_P002", "class": "Class 2"}
+{"qid": "Q012", "question": "What are the two knobs you actually tune in RAG?", "gold_paragraph_id": "CL2_C3_P006", "class": "Class 2"}
+{"qid": "Q013", "question": "What are the three levels of evaluation?", "gold_paragraph_id": "CL2_C4_P004", "class": "Class 2"}
+{"qid": "Q014", "question": "What did DBS own versus rent in their AI stack?", "gold_paragraph_id": "CL2_C2_P008", "class": "Class 2"}
+{"qid": "Q015", "question": "What is the P-U-R-E governance framework?", "gold_paragraph_id": "CL2_C2_P008", "class": "Class 2"}
+{"qid": "Q016", "question": "What is the first upgrade when basic RAG plateaus?", "gold_paragraph_id": "CL2_C3_P007", "class": "Class 2"}
+{"qid": "Q017", "question": "What is tokenization in the context of large language models?", "gold_paragraph_id": "CL3_C1_P003", "class": "Class 3"}
+{"qid": "Q018", "question": "What does attention do in a transformer model?", "gold_paragraph_id": "CL3_C1_P010", "class": "Class 3"}
+{"qid": "Q019", "question": "What is the prompting ladder?", "gold_paragraph_id": "CL3_C2_P003", "class": "Class 3"}
+{"qid": "Q020", "question": "Why is structured output important for AI systems?", "gold_paragraph_id": "CL3_C2_P009", "class": "Class 3"}
+{"qid": "Q021", "question": "What are the four meters running on every model call?", "gold_paragraph_id": "CL3_C3_P003", "class": "Class 3"}
+{"qid": "Q022", "question": "What is the one-line cost-to-serve formula?", "gold_paragraph_id": "CL3_C3_P005", "class": "Class 3"}
+{"qid": "Q023", "question": "Why does Med-PaLM 2's recipe cost 20-30x per answer?", "gold_paragraph_id": "CL3_C3_P014", "class": "Class 3"}
+{"qid": "Q024", "question": "How do you calculate the break-even success rate for AI architectures?", "gold_paragraph_id": "CL3_C3_P011", "class": "Class 3"}
+{"qid": "Q025", "question": "What is an agent, in one line?", "gold_paragraph_id": "CL4_C1_P002", "class": "Class 4"}
+{"qid": "Q026", "question": "What two conditions must hold for a system to be an agent?", "gold_paragraph_id": "CL4_C1_P002", "class": "Class 4"}
+{"qid": "Q027", "question": "What is the difference between a workflow and an agent?", "gold_paragraph_id": "CL4_C1_P008", "class": "Class 4"}
+{"qid": "Q028", "question": "What are the three agent patterns?", "gold_paragraph_id": "CL4_C1_P010", "class": "Class 4"}
+{"qid": "Q029", "question": "Where should guardrails live, and what two kinds are there?", "gold_paragraph_id": "CL4_C2_P008", "class": "Class 4"}
+{"qid": "Q030", "question": "Why do eight turns cost more than eight calls in an agent?", "gold_paragraph_id": "CL4_C3_P002", "class": "Class 4"}
+{"qid": "Q031", "question": "What are the three tests to decide if an agent loop is worth the tokens?", "gold_paragraph_id": "CL4_C3_P005", "class": "Class 4"}
+{"qid": "Q032", "question": "What is the lethal trifecta in prompt injection?", "gold_paragraph_id": "CL6_C2_P016", "class": "Class 6"}
+{"qid": "Q033", "question": "What are the two forces pulling AI costs in opposite directions?", "gold_paragraph_id": "CL5_C2_P003", "class": "Class 5"}
+{"qid": "Q034", "question": "What is cost per successful task?", "gold_paragraph_id": "CL5_C2_P004", "class": "Class 5"}
+{"qid": "Q035", "question": "What are the three layers of the cost-to-serve calculator?", "gold_paragraph_id": "CL5_C2_P021", "class": "Class 5"}
+{"qid": "Q036", "question": "What are the two archetypes of AI entering an industry?", "gold_paragraph_id": "CL5_C3_P002", "class": "Class 5"}
+{"qid": "Q037", "question": "What is the precondition for the first archetype of AI entering an industry?", "gold_paragraph_id": "CL5_C3_P004", "class": "Class 5"}
+{"qid": "Q038", "question": "What is the free-label test?", "gold_paragraph_id": "CL5_C1_P017", "class": "Class 5"}
+{"qid": "Q039", "question": "What are the five data readiness tests?", "gold_paragraph_id": "CL5_C1_P011", "class": "Class 5"}
+{"qid": "Q040", "question": "What is the difference between a business model and an operating model?", "gold_paragraph_id": "CL5_C1_P007", "class": "Class 5"}
+{"qid": "Q041", "question": "What is confabulation, and why is it a better word than hallucination?", "gold_paragraph_id": "CL6_C1_P006", "class": "Class 6"}
+{"qid": "Q042", "question": "What are the two questions that sort every AI failure?", "gold_paragraph_id": "CL6_C1_P010", "class": "Class 6"}
+{"qid": "Q043", "question": "What is the dangerous quadrant in AI failure?", "gold_paragraph_id": "CL6_C1_P010", "class": "Class 6"}
+{"qid": "Q044", "question": "What three things does a review step need?", "gold_paragraph_id": "CL6_C1_P009", "class": "Class 6"}
+{"qid": "Q045", "question": "What are the four operational layers of responsible deployment?", "gold_paragraph_id": "CL6_C1_P017", "class": "Class 6"}
+{"qid": "Q046", "question": "What is the lethal trifecta?", "gold_paragraph_id": "CL6_C2_P016", "class": "Class 6"}
+{"qid": "Q047", "question": "What is denial of wallet?", "gold_paragraph_id": "CL6_C2_P017", "class": "Class 6"}
+{"qid": "Q048", "question": "What are the five regulatory regimes and their governable objects?", "gold_paragraph_id": "CL6_C2_P009", "class": "Class 6"}
+{"qid": "Q049", "question": "What does 'compliant with what, binding on whom, from when' mean?", "gold_paragraph_id": "CL6_C2_P009", "class": "Class 6"}
+{"qid": "Q050", "question": "What are the six habits that outlive every model version?", "gold_paragraph_id": "CL6_Close_P006", "class": "Class 6"}
