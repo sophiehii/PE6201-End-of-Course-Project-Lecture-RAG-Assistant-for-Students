@@ -43,11 +43,10 @@ An LLM-generated answer based strictly on the retrieved context, ending with a m
 | BM25         | 38% (19/50) | 62% (31/50) |
 | FAISS local  | 26% (13/50) | 48% (24/50) |
 | FAISS OpenAI | 54% (27/50) | 86% (43/50) |
-| Generation:  |             |             |
 
 - Abstention: 1/50 = 2.00%
 - Answered: 49
-- Post-hoc flagged hallucination: 26/49 = 46.94%
+- Post-hoc flagged hallucination: 22/49 = 44.90%
 - Citation accuracy among answered: 23/49 = 46.94%
   Cost:
 - Corpus embedding: text-embedding-3-small, 425 chunks, 89,750 tokens, $0.0018.
