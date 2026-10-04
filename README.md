@@ -47,7 +47,7 @@ An LLM-generated answer based strictly on the retrieved context, ending with a m
 
 - Abstention: 1/50 = 2.00%
 - Answered: 49
-- Post-hoc flagged hallucination: 26/49 = 53.06%
+- Post-hoc flagged hallucination: 26/49 = 46.94%
 - Citation accuracy among answered: 23/49 = 46.94%
   Cost:
 - Corpus embedding: text-embedding-3-small, 425 chunks, 89,750 tokens, $0.0018.
