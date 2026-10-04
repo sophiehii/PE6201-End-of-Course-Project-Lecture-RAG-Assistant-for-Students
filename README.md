@@ -42,7 +42,7 @@ An LLM-generated answer based strictly on the retrieved context, ending with a m
 | ------------ | -----------:| -----------:|
 | BM25         | 38% (19/50) | 62% (31/50) |
 | FAISS local  | 26% (13/50) | 48% (24/50) |
-| FAISS OpenAI | 52% (26/50) | 86% (43/50) |
+| FAISS OpenAI | 54% (27/50) | 86% (43/50) |
 | Generation:  |             |             |
 
 - Abstention: 1/50 = 2.00%
